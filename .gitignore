@@ -1,0 +1,29 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Workspace
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary artifacts
+temp/
+*.tmp
+*.bak
